@@ -20,6 +20,10 @@
 > 
 > ให้แน่ใจว่าคอมพิวเตอร์ที่ใช้ไม่ได้มีการปิดกั้นกิจกรรมที่เกี่ยวข้องดังกล่าว มิฉะนั้นอาจทำให้ไม่สามารถทำ workshop ได้ตามปกติ
 
+## (Optional) App 
+
+- ChatGPT ([iOS](https://apps.apple.com/us/app/chatgpt/id6448311069), [Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1), [Windows](https://apps.microsoft.com/detail/9nt1r1c2hh7j), [MacOS](https://persistent.oaistatic.com/sidekick/public/ChatGPT.dmg))
+- Microsoft Copilot ([iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445), [Android](https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en-US&pli=1))
 
 ## Workshop 
 
